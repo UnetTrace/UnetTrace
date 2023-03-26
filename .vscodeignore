@@ -1,0 +1,17 @@
+.vscode/**
+.vscode-test/**
+node_modules
+!node_modules/object-hash
+!node_modules/gaussian
+!node_modules/JSONStream
+!node_modules/jsonparse
+!node_modules/through
+src/**
+.gitignore
+.yarnrc
+webpack.config.js
+vsc-extension-quickstart.md
+**/tsconfig.json
+**/.eslintrc.json
+**/*.map
+**/*.ts
